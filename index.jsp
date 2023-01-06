@@ -8,9 +8,9 @@
 </head>
 <body>
 
-<h1>My Web Application</h1>
+<h1>Our Web Application</h1>
 
-<p>Welcome to my web application!</p>
+<p>Welcome to our web application!</p>
 
 <%
     String userName = request.getParameter("userName");
