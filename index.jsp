@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>My Web Application</title>
+<title>Our Web Application</title>
 </head>
 <body>
 
